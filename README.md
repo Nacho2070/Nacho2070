@@ -1,5 +1,5 @@
 ## Hi there 👋
- I am a Programming Technician student in Mendoza, Argentina, currently in my third semester. I am passionate about development and eager to keep learning.
+ I am a Programming student in Mendoza, Argentina, currently in my third semester. I am passionate about development and eager to keep learning.
  I am looking for new challenges in a work environment that allows me to continue growing and developing professionally.
  
 - 🌱 I’m currently learning java with spring boot and exploring React
