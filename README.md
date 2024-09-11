@@ -1,12 +1,9 @@
 ## Hi there 👋
+Hi there, my name is Ignacio, i´m currently learning java with spring boot and a little bit of react 
+i got understanding in the basic frontend tools lke html, 
 
-<!--
-**Nacho2070/Nacho2070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning java with Spring Boot
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning java with spring boot and exploring React
+- 👯 I’m looking to collaborate on any project
+- 📑 I have a good understanding of basic frontend tools like HTML, CSS, Tailwind, and JavaScript
 - 📫 How to reach me: ignaciomrtn90@gmail.com
--->
+
