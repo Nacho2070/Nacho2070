@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning java with spring boot and exploring React
 - 👯 I’m looking to collaborate on any project
-- 📑 I have a good understanding of basic frontend tools like HTML, CSS, Tailwind, and JavaScript
+- 📑 I have an understanding of frontend tools like HTML, CSS, Tailwind, and JavaScript
 
 <p>
   📣  How to reach me: <br/>
