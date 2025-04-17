@@ -1,4 +1,4 @@
-### Hey,[Ignacio here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, [Ignacio here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  I am a Programming student in Mendoza, Argentina, currently in my third semester. I am passionate about development and eager to keep learning.
  I am looking for new challenges in a work environment that allows me to continue growing and developing professionally.
  
